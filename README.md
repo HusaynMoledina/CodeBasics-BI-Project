@@ -4,7 +4,7 @@ This repository contains a Power BI project guided by Codebasics. The project is
 
 ## Access the Dashboard Online
 
-You can view the Power BI dashboard online by following this [link]([https://your-powerbi-link-here](https://app.powerbi.com/groups/4cf2dbd2-62a3-4bac-91e8-8bcdbdca2b6c/reports/7a8c549c-ae7e-4e28-a5cb-ee6a37df633d?ctid=92454335-564e-4ccf-b0b0-24445b8c03f7&pbi_source=linkShare).
+You can view the Power BI dashboard online by following this [link](https://app.powerbi.com/groups/4cf2dbd2-62a3-4bac-91e8-8bcdbdca2b6c/reports/7a8c549c-ae7e-4e28-a5cb-ee6a37df633d?ctid=92454335-564e-4ccf-b0b0-24445b8c03f7&pbi_source=linkShare).
 
 
 ## Views Overview
